@@ -1,4 +1,4 @@
-# Jobster Website
+# JobJunction Website
 
 #### Setup
 
